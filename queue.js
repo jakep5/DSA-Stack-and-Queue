@@ -162,7 +162,7 @@ function dequeue() {
 
 //Square dance pairing
 
-/* let stackMale = new Stack();
+let stackMale = new Stack();
 let stackFemale = new Stack();
 let stackSpare = new Stack();
 
@@ -204,7 +204,7 @@ function dance(males, females) {
 getDancers(stackMale, stackFemale);
 
 dance(stackMale, stackFemale);
- */
+
 //The orphidian bank 
 
 let bankQueue = new Queue();
